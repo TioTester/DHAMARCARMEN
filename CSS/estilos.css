@@ -1,0 +1,16 @@
+body {
+background-image: url("GIF.gif");
+img, p{
+margin:0 auto;
+
+}
+
+} 
+#contenidogeneral{
+width:800px;
+background-color: white;
+margin:0 auto;
+}
+#titulop{
+font-size: 3em;
+}
